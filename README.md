@@ -1,6 +1,6 @@
 # Truong Nguyen - @nmanhtruong 🦁
 
-https://youtu.be/f7hSZWkDF04?t=699
+https://youtu.be/6gSm_y8ZSqU?t=1102
 
 ## Get in touch
 
