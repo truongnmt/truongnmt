@@ -1,8 +1,6 @@
 # Truong Nguyen - @nmanhtruong 🦁
 
-👋 Hi there, I'm Truong - Digital Identity Management Developer at [MoneyForward](http://corp.moneyforward.com/). Responsible for the development of an identity infrastructure using technologies such as SAML, and OpenID Connect, both backend (Rails) and frontend (React). 
-
-In simple, short and no fancy words, my work is to help user to sign up and log in! 😅
+👋 Hi there, I'm Truong - Working at [MoneyForward](http://corp.moneyforward.com/).
 
 ## Get in touch
 
