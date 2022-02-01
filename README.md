@@ -1,10 +1,15 @@
 # Truong Nguyen - @nmanhtruong 🦁
 
-👋 Hi there, I'm Truong - Working at [MoneyForward](http://corp.moneyforward.com/).
+👋 Hi there, I'm Truong
 
 ## Get in touch
 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nmanhtruong/), [Medium](https://truongnmt.medium.com/), [Facebook](https://www.facebook.com/nmanhtruong), [Twitter](https://twitter.com/nmanhtruong), [Youtube 🌠](https://www.youtube.com/channel/UCxKLmS0U8EbkyBRncjX84MA)
+- 📫 How to reach me: 
+  - [LinkedIn](https://www.linkedin.com/in/nmanhtruong/)
+  - [Medium](https://truongnmt.medium.com/)
+  - [Facebook](https://www.facebook.com/nmanhtruong)
+  - [Twitter](https://twitter.com/nmanhtruong)
+  - [Youtube 🌠](https://www.youtube.com/channel/UCxKLmS0U8EbkyBRncjX84MA)
 - ⚡ Fun fact: I'm a coder by day, teacher by night, check out my course 👉 [How to build Instagram using Ruby on Rails](https://www.udemy.com/course/how-to-build-instagram-using-ruby-on-rails/?referralCode=35E17584E756F4D00BAA)
 
 
